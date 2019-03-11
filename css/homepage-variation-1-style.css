@@ -1345,10 +1345,7 @@ p.copyright-text {
 	width: 100%;
 	height: 290px;
 }
-.location-map2 {
-	width: 764px;
-	height: 1147px;
-}
+
 .agent-form input::-webkit-input-placeholder, .agent-form textarea::-webkit-input-placeholder {
 	color: #b1e2ff;
 }
